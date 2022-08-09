@@ -1,5 +1,8 @@
 
-# Interactive Dashboard with Python – Streamlit
+# CUSTO MARGINAL DE DEMANDA - MEDIA PATAMARES
+
+## PLD AGOSTO - 2022 - Niveis para 30/07 NW Versao 28.0.3
+## Interactive Dashboard with Python – Streamlit
 
 Sales Dashboard built in Python and the Streamlit library to visualize Excel data.
 
@@ -13,9 +16,11 @@ Sales Dashboard: https://dashboard-cis.herokuapp.com/
 
 ## Author
 
-- Sven from Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
-- Website: https://pythonandvba.com
+### GITHUB
+
+[YT - Repositório Sven-Bo](https://github.com/Sven-Bo/streamlit-sales-dashboard)
+
+[Vídeo do YouTube](https://www.youtube.com/watch?v=Sb0A9i6d320)
 
 
 
