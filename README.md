@@ -22,12 +22,3 @@ Sales Dashboard: https://dashboard-cis.herokuapp.com/
 
 [Vídeo do YouTube](https://www.youtube.com/watch?v=Sb0A9i6d320)
 
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at contact@pythonandvba.com
-
-
-![Logo](https://www.pythonandvba.com/banner-img)
-
